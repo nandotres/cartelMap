@@ -1,0 +1,122 @@
+{
+    "story_1": {
+        "title": "Sinaloa Cartel Figureheads in Custody",
+        "date": "7-25-2024",
+        "description": "Ismael Zambada Garcia, speculated founder of the Sinaloa Cartel and Joaquin Guzman Lopez, son of Sinaloa Cartel ex-leader Joaquin 'El Chapo' Guzman, flew into a private airfield in El Paso, Texas and were arrested by US officials. Zambada was reportedly lured onto the flight by Lopez under false pretenses of looking to buy property in Mexico; however, it is speculated that Zambada cut a deal with US officials and willingly turned himself in, due to leaked paperwork and the casual and relaxed nature of the arrest.",
+        "coordinates": [-106.70051069093823, 31.8768095540838],
+        "location": "El Paso, TX",
+        "type": "arrest",
+        "image": "zambada.png",
+        "importance": 10
+    },
+    "story_2": {
+        "title": "Mexico City Security Strategist Assasinated",
+        "date": "7-25-2024",
+        "description":"Milton Morales, head of the Meixco City strategy, tactics and special operations unit of the Mexico City Security Ministry (SSC), was shot and murdered outside a chicken shop (Polleria Cesar) in Coacalco. Security footage shows the perpetrator walking up to Morales, shooting him in the back of the head, and fleeing the scene. Due to the former Mexico City Security Minister and long-time peer of Morales, Omar García Harfuch, being the target of a previous assasination attempt allegedly perpetrated by the Cartel De Jalisco Nueva Generacion (CJNG), it is speculated that this attack was enacted by the same criminal entity.",
+        "coordinates": [-99.09487, 19.62319],
+        "location": "Coacalco, CDMX",
+        "type": "assassination",
+        "image": "morales.png",
+        "importance": 6
+    },
+    "story_3": {
+        "title": "Gulf Cartel Leader Released",
+        "date": "8-30-2024",
+        "description":"Osiel Cárdenas Guillén, leader of the Gulf Cartel, has been released from La Palma US prison in Eloy, Arizona. He was sentenced to 25 years in prison when he was extradited to the US in 2007. While still unclear as to why his full sentence was not served, he is now in the process of being deported back to Mexico.",
+        "coordinates": [-111.52945198465443, 32.81521237348558],
+        "location": "Eloy, AZ",
+        "type": "arrest",
+        "image": "osiel.png",
+        "importance": 4
+    },
+    "story_4": {
+        "title": "Edomex Security Officials Arrested",
+        "date": "10-3-2024",
+        "description":"Four State of Mexico (Edomex) public security officials were arrested for links to the CJNG and LFNM criminal organizations. The kindapping and extortion of a public security director of Temascalcingo and his security escort. The four are also accused of granting protection to members of the previously mentioned criminal organizations.",
+        "coordinates": [-99.7233, 19.4969],
+        "location": "Edomex, MX",
+        "type": "arrest",
+        "image": "4oficiales.png",
+        "importance": 5
+    },
+    "story_5": {
+        "title": "CDN Kidnaps/Threatens Local Gang",
+        "date": "10-3-2024",
+        "description": "Members of Cartel Del Noreste kidnap members of a gang local to Monterrey, 'Los Costales,' and publish a video threatening the gang. They call out specific members of the group and announce their claim on the city of Monterrey. In the video, the kidnapped members can be seen tied up and covered in cloths on the ground, with the CDN sicarios standing behind them armed and armored with military-grade equipment.",
+        "coordinates": [-100.32357663129702, 25.69032999102889],
+        "location": "Monterrey, Nuevo Leon",
+        "type": "PSA",
+        "image": "cdn_psa.png",
+        "importance": 7
+    },
+    "story_6": {
+        "title": "Head of Los Chapitos Security Arrested",
+        "date": "9-19-2024",
+        "description": "Mario 'El Piyi' Alexander was arrested at a event hall in a military operation carried out by The Mexican Secretariat of National Defense (SEDENA). He is considered to be responsible for the security of Iván Archivaldo Guzmán, the head of Los Chapitos of the Sinaloa cartel. Alexander was a member of 'Los Ninis' up until the arrest of the then leader 'El Nini', and was allegedly named his successor after the arrest. This is a large blow to the faction, especially considering the current war between 'Los Chapitos' and 'Los Mayos'.",
+        "coordinates": [-107.4326286, 24.8522993],
+        "location": "Santa Fe, Culiacan",
+        "type": "arrest",
+        "image": "el_piyi.png",
+        "importance": 7
+    },
+    "story_7": {
+        "title": "US Indictment Against Los Zetas Leaders",
+        "date": "10-16-2024",
+        "description": "The US has filed an indictment against the Treviño Brothers 'Z-40' & 'Z-42' of the now defunct 'Los Zetas' cartel. Los Zetas have since splintered, mostly reforming into the CDN (Northeast Cartel). Appropriately, the US Department of Justice is accusing the Treviño brothers of giving orders from the Mexican prison they are currently being held at. This is most likely being done in the hopes of extraditing the two to the United States.",
+        "coordinates": [-77.02484169629729, 38.89449392563808],
+        "location": "Washington DC, US",
+        "type": "legal",
+        "image": "trevino_brothers.png",
+        "importance": 7
+    },
+    "story_8": {
+        "title": "Mayor of the capital of a Mexican State Found Murdered",
+        "date": "10-7-2024",
+        "description": "The mayor of Chilpancingo, the capital of the Mexican state Guerrero and a city that is particularly poverty-stricken and crime-ridden, was murdered days after taking office. Alejandro Arcos was born and raised in Chilpancingo with a deep care and passion for the community. In his words, 'I see Chilpancingo the same way I see the eyes of my son. I imagine Chilpancingo when I see the face of my son. The day I am no longer on this Earth, I want to be remembered as a promoter of peace, happiness, and progress.' His head was found on top of his car with his body inside.",
+        "coordinates": [-99.50270242915569, 17.548628721043027],
+        "location": "Chilpancingo, Guerrero",
+        "type": "assassination",
+        "image": "alejandro_arcos.png",
+        "importance": 7
+    },
+    "story_9": {
+        "title": "CJNG vs MZ: Gun Fight in the Mountains near Huajicori",
+        "date": "9-13-2024",
+        "description": "A gun fight has broken out and left 11 dead between sicarios of the CJNG and MZ (Los Mayos). Video shows sicarios lined up in a prone position with light machine guns and caches of ammunition firing into the distance.",
+        "coordinates": [-105.14569020327085, 22.754791880433256],
+        "location": "Huajicori, Nayarit",
+        "type": "battle",
+        "image": "cjng_mz_battle.png",
+        "importance": 7
+    },
+    "story_10": {
+        "title": "Plea Deal Involving Chapitos Confirmed",
+        "date": "10-21-2024",
+        "description": "Since the strange circumstances surrounding the arrest of Ismael 'El Mayo' Zambada, it has been speculated that the Chapitos faction are working with the US federal government to take down the enemy faction of the Sinaloa cartel 'Los Mayos' and to free the currently incarcerated Joaquin Guzman Lopez and Ovidio 'El Raton' Guzman'. A plea deal has now been confirmed by the two sons of El Chapo's lawyer during a federal court hearing in Chicago. The next hearing is set for January 2025, where the two may become witnesses for the US government.",
+        "coordinates": [-87.62924179850697, 41.87875697339096],
+        "location": "Chicago, Illinois",
+        "type": "legal",
+        "image": "plea-deal.png",
+        "importance": 7
+    },
+    "story_11": {
+        "title": "Los Mayos Litter Culiacan with Flyers",
+        "date": "10-22-2024",
+        "description": "Flyers have been raining down on Culiacan from aircrafts for almost a month-long period, claiming to be an announcement from Los Mayos. The flyers read: 'Sinaloans: we will not rest until we enter Culiacan, we want to place order and put an end to so much abuse committed by the Chapos. For this we need to overthrow this government that supports them. We ask that you call this number 6673246586 to report any abuse, corruption, businesses and addresses of the governor. The same goes for his sons and cabinet members who serve as proxies with the use of their names. As I said before we're going to root out the problem. We need to join forces. SINCERELY, The Mayiza'",
+        "coordinates": [-107.3940, 24.8091],
+        "location": "Culiacan, Sinaloa",
+        "type": "psa",
+        "image": "mayo_flyers.png",
+        "importance": 7
+    },
+    "story_12": {
+        "title": "International Drug Trafficker Arrested",
+        "date": "10-31-2024",
+        "description": "Zhi Dong Zhang, an importer and exporter of drugs on an international scale based in Mexico was arrested by Mexican authorities. He trafficked cocaine, methamphetamine, and fentanyl for both the Sinaloa Cartel and CJNG. His operation reached from Mexico to the US, Central and South America, Europe, China, and Japan. he was captured by Mexican authorities and are now in talks of extradition to the US.",
+        "coordinates": [-99.30001437615061, 19.35680635516264],
+        "location": "Cuajimalpa, CDMX",
+        "type": "arrest",
+        "image": "zhi.png",
+        "importance": 7
+    }
+}

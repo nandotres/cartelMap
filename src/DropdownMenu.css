@@ -1,0 +1,7 @@
+.dropdown-wrapper {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    left: 10px; /* Adjust as needed */
+    z-index: 1000; /* Ensure it's above the map */
+    width: 300px; /* Adjust width as needed */
+}

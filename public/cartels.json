@@ -1,0 +1,206 @@
+{
+  "cartel_de_sinaloa": {
+    "name": "CARTEL DE SINALOA",
+    "abbreviation": "CDS",
+    "color": "Red",
+    "path": "cartel-de-sinaloa",
+    "leader": "Ivan Archivaldo Guzman, Ismael 'El Mayo' Zambada Sicairos (disputed)",
+    "foundingDate": 1987,
+    "history": {
+      "era_1": {
+        "name": "MARIJUANA/POPPY FARMING",
+        "description": "The organization can be traced back to friend of 'El Chapo' Guzmán, Pedro Avilés, who cultivated and trafficked marijuana during the 60s and 70s. El Chapo was soon invited into the business before Avilés  was killed in a police shootout."
+      },
+      "era_2": {
+        "name": "COCAINE SMUGGLING",
+        "description": "In the late 70s, when cocaine began to move from Colombia, up through Central America, and into Mexico, the families that trafficked and cultivated poppy and marijuana in Mexico found a home in Guadalajara, Jalisco. They began trafficking cocaine on behalf of the Medellin Cartel of Colombia. Trade routes were established from Central America to the US that are still active to this day."
+      },
+      "era_3": {
+        "name": "US GOVERNMENT PRESSURE",
+        "description": "Inevitably, DEA agents began investigating the drug trade coming from Mexico. A DEA agent, Enrique Camarena, was assassinated by the newly founded Guadalajara Cartel. The Mexican government started feeling pressure from the United States to take action. The leaders of the organization that did not flee from Mexico moved north to re-establish operations."
+      },
+      "era_4": {
+        "name": "INFIGHTING",
+        "description": "In the 90's, once the organization fractured and many of these factions found their own business and identity, wars between these factions began. El Chapo's organization began fighting with the Arrellano Felix brothers in Tijuana. After fleeing to Guatemala, getting arrested, and escaping prison in 2001, Guzmán re-established control over a significant portion of the organization with his brother, 'El Guano'. An alliance between the Beltran Leyvas faction quickly eroded after the arrest of Alfredo Beltran Leyva bred distrust against El Chapo."
+      },
+      "era_5": {
+        "name": "CHAPO DOMINANCE",
+        "description": "The war between Chapo and the Beltran Leyva organization resulted in mass amounts of violence, and El Chapo became known for his cruelty as his influence spread. Alongside Ismael 'El Mayo' Zambada, El Chapo became known as the figurehead of the Sinaloa Cartel."
+      },
+      "era_6": {
+        "name": "EL CHAPOS ARREST",
+        "description": "El Chapo was arrested in 2014, escaped in 2015, and arrested again in 2017. His sons quickly took control of the organization along with 'El Mayo', and soon these two groups began to clash as well. Currently, the war between Los Chapos and Los Mayos rages on, and following the arrest of 'El Mayo', Sinaloa, Durango, and Sonora are hotspots for clashes between armed groups of each faction."
+      }
+    },
+    "factions": {
+      "los_chapitos": {
+        "name": "LOS CHAPITOS",
+        "description": "This faction is headed by three sons of the currently incarcerated Joaquin 'El Chapo' Guzman. Iván Archivaldo Guzmán Salazar is said to be at the head, being the most senior of El Chapo's children that is currently free. This faction is known for their violence, with the armed wings of the faction, Special Forces CDS and Special Forces JGL, enforcing the control of the areas they control. Los Chapitos operate on the outskirts of Culiacán with a deadly presence."
+      },
+      "los_mayos": {
+        "name": "LOS MAYOS",
+        "description": "Ismael 'El Mayo' Zambada is the figurehead of this faction. The operations of this faction are spear-headed by his sons and grandsons. This faction is known for their secrecy and discretion, and they often manage to keep their operations under wraps. The most well known and documented armed wing of the faction is known as 'Los Rusos', headed by Juan 'El Ruso' Felix who like his leader, keeps a low profile."
+      },
+      "los_guanos": {
+        "name": "LOS GUANOS",
+        "description": "Headed by the brother of Joaquin 'El Chapo' Guzman, Aureliano 'El Guano' Guzmán-Loera, this faction's main source of income derives from the cultivation of marijuana and poppy fields in the Sierra Madre Mountain Range of Sinaloa, Mexico."
+      },
+      "caborca_cartel": {
+        "name": "CABORCA CARTEL",
+        "description": "Founded by Rafael Caro Quintero, the Caborca Cartel controls a significant portion of the northeast section of the state of Sonora. This faction is currently disputing territory with Los Chapitos and Los Salazar, an armed wing of the Sinaloa cartel mainly allied with Los Chapitos."
+      }
+    }
+  },
+  "cartel_de_jalisco_nueva_generacion": {
+    "name": "CARTEL DE JALISCO NUEVA GENERACION",
+    "abbreviation": "CJNG",
+    "color": "Purple",
+    "path": "cartel-de-jalisco-nueva-generacion",
+    "leader": "Nemesio 'El Mencho' Oseguera Cervantes",
+    "foundingDate": 2010,
+    "history": {
+      "era_1": {
+        "name": "SINALOAN ORIGINS",
+        "description": "When a kingping of the Milenio Cartel and capo of the Sinaloa Cartel who worked closely with El Chapo, Ignacio 'Nacho' Coronel, was killed by forces of the Mexican government, the Milenio Cartel split into two factions. The Milenio Cartel was the primary wing of the Sinaloa Cartel in the states of Jalisco, Colima, Michoacan and Mexico city; so these two newly founded factions immediately began to battle for control of the region. The organization that is now known as CJNG emerged victorious from this power struggle, led by 'El Mencho'."
+      },
+      "era_2": {
+        "name": "FEUD AGAINST LOS ZETAS",
+        "description": "Early into the organizations creation, CJNG made it a priority to proactively eliminate Los Zetas forces. Over time, they significantly cut through the dominance of Los Zetas, who were arguably the most dominant cartel in the early 2010s. This objective was so melded into the identity of the CJNG, that the organization also referred to themselves as 'Los Matazetas', or the Zeta killers."
+      },
+      "era_3": {
+        "name": "NATIONAL DOMINANCE",
+        "description": "Today, with the splintering and weakening of the Sinaloa Cartel and its major factions, CJNG is commonly considered to be the most dominant cartel in Mexico. They have attracted attention from Mexican government armed forces on multiple instances. In 2015, the organization became feared after shooting down a military helicoper with a rocket-propelled grenade during a surveillance flight."
+      }
+    },
+    "factions": {
+      "los_cuinis": {
+        "name": "LOS CUINIS",
+        "description": "Los Cuinis operate primarily as the financial and money laundering division of CJNG. It was founded by El Mencho's brother-in-law, Abigael González Valencia. Because of this, the two organizations are closely allied, and some believe Los Cuinis are at the head of the operation."
+      },
+      "los_balcanes": {
+        "name": "LOS BALCANES",
+        "description": "Named after the Balkan region of eastern Europe, this wing provides drug smuggling routes from South America to Europe. CJNG has established business with local mafias in the region."
+      },
+      "grupo_elite": {
+        "name": "GRUPO ELITE",
+        "description": "Grupo Elite is CJNG's armed wing. They patrol territory and guard high-ranking members of the organization."
+      }
+    }
+  },
+  "cartel_del_gulfo": {
+    "name": "CARTEL DEL GULFO",
+    "abbreviation": "CDG",
+    "color": "blue",
+    "path": "cartel-del-gulfo",
+    "leader": "Osiel Cárdenas Guillén",
+    "foundingDate": 1984,
+    "history": {
+      "era_1": {
+        "name": "CALI CARTEL",
+        "description": "The founder of the organization, Juan García Abrego, was a marijuana and poppy farmer. The Cali Cartel from Colombia was searching for new routes for drug trafficking and established a relationship with Abrego, who began smuggling cocaine through the Mexican border for Cali in exchange for a hefty chunk of the profits. In 1996, he was extradited to the US after establishing trafficking networks between Mexico and many major cities of the United States, such as Houston to Atlanta, New York, and Los Angeles."
+      },
+      "era_2": {
+        "name": "MILITARIZATION",
+        "description": "After Abrego's arrest, Osiel Cárdenas Guillén took leadership of the organization and prioritized defense. He recruited former memberse of the Mexican Special Forces' own members to provide training and weaponry. Once Cárdenas was arrested and extradited to the US, much of the armed wing broke off from the Gulf Cartel and founded Los Zetas."
+      },
+      "era_3": {
+        "name": "FRACTURING",
+        "description": "After Cárdenas was arrested and extradited to the US in 2003, much of the armed wing broke off from the Gulf Cartel and founded Los Zetas. The rest of the organization splintered into many smaller groups that have been fighting for control over the economy of Tamaulipas to this day. The Gulf Cartel is no longer a centralized organization, but rather a complex criminal network with many different heads, goals, criminal industries, etc. that are more often than not in conflict with each other."
+      }
+    },
+    "factions": {
+      "los_metros": {
+        "name": "Los Metros",
+        "description": "This faction controls a large section around the US border of Tamaulipas. They are currently at war with Los Rojos."
+      },
+      "los_rojos": {
+        "name": "Los Rojos" ,
+        "description": "Los Rojos (the Reds) control a smaller section of the southern region of Tamaulipas. They are fighting a seemingly losing war against Los Metros."
+      },
+      "los_ciclones": {
+        "name": "Los Ciclones" ,
+        "description": "Los Ciclones (the Cyclones) have strongholds both in the northeast region of Tamaulipas and the Victoria municipality. The group reemerged from a former cell under the name 'Escopriones' (scorpions) after years of being seemingly extinct."
+      },
+      "las_panteras": {
+        "name": "Las Panteras" ,
+        "description": "Las Panteras (the Panthers) control a reasonably-sized region of Tamaulipas in the southeastern coast of Tamaulipas, controlling the municipalities of Abasolo, Aldama, Soto la Marina, and Gonzalez."
+      },
+      "las_zetas_vieja_escuela": {
+        "name": "Los Zetas Vieja Escuela" ,
+        "description": "Los Zetas Vieja Escuela (Old School Zetas) emerged after the splintering of Los Zetas following the arrest of the head of the group, the Treviño brothers. They took hold of a vast swathe of land in the Gulf Cartel-controlled region of Tamaulipas."
+      }
+    }
+  },
+  "cartel_de_juarez": {
+    "name": "CARTEL DE JUAREZ (LA LINEA)",
+    "abbreviation": "CDJ",
+    "color": "lightgreen",
+    "path": "la-linea",
+    "leader": "Juan Pablo Ledezma",
+    "foundingDate": 1980,
+    "history": {
+      "era_1": {
+        "name": "GUADALAJARA CARTEL",
+        "description": "The Juarez Cartel can trace its origins back to Miguel Ángel Félix Gallardo, who was a member of the Guadalajara Cartel, the same organization that the Sinaloa Cartel originates from. After the group fractured and relocated, Gallardo found a home in Ciudad Juárez where he began a new operation. The organization would soon begin moving cocaine from Colombia to Mexico by air, then to the United States by land, using the advantage of controlling a reasonable chunk of the Mexican-American border on and surrounding Juarez."
+      },
+      "era_2": {
+        "name": "STEADY STRONGHOLD",
+        "description": "Since the formation, the Juarez Cartel has enjoyed a steady business model, save some instances of infighting. The organization prioritizes co-opting law enforcement, taxing other groups using their territory, and militarizing against enemies attempting to intercept the drug trafficking corridor they control. The organization is now mainly managed by its major armed wing, 'La Linea', so much so that 'Cartel De Juarez' is often considered an outdated name and is now referred to frequently as 'La Linea'. However, the organization is currently facing struggles stemming from its competitors from the Sinaloa Cartel."
+      }
+    },
+    "factions": {
+      "la_linea": {
+        "name": "La Linea",
+        "description": "This is by far the most dominant faction in the Juarez Cartel, to the extent that some refer to the organization as a whole as 'La Linea' (The Line) instead of the Juarez Cartel. They are currently allied with Los Zetas, trading smuggling routes for training and soldiers, and with CJNG to eliminate common enemies within the Sinaloa Cartel."
+      },
+      "barrio_aztecas": {
+        "name": "Barrio Aztecas" ,
+        "description": "Formed in El Paso, Texas as a prison gang in 1986, Barrio Azteca has since become a multinational criminal organization. In 2008, they formed an alliance with La Linea, the dominant faction of the Juarez Cartel. They have presence on both sides of the border near and around Ciudad Juarez, making way for drug trafficking routes to and from the United States and Mexico."
+      }
+    }
+  },
+  "cartel_noreste": {
+    "name": "CARTEL DEL NORESTE",
+    "abbreviation": "CDN",
+    "color": "yellow",
+    "path": "cartel-del-noreste",
+    "leader": "Miguel Treviño Morales 'Z-40' & Omar Treviño Morales 'Z-42'",
+    "foundingDate": 2014,
+    "history": {
+      "era_1": {
+        "name": "LOS ZETAS",
+        "description": "After the arrest of Zetas leaders, the Treviño brothers, Los Zetas split into two, creating the Northeast Cartel on one end. This group controls most of Nuevo Laredo and some of Tamaulipas in the Northeast of Mexico, hence its name. They now face harsh splintering and decentralization, burning the bridges with many of the international alliances that Los Zetas built. Given the lack of organization and leadership, the cartel struggles to traffic drugs on a large scale, now prioritizing local crime."
+      }
+    },
+    "factions": {
+      "tropa_del_infierno": {
+        "name": "Tropa del Infierno",
+        "description": "Founded by the nephew of Los Zeta's leader Miguel Treviño Morales 'Z-40', Juan Gerardo Treviño-Chávez, Tropa del Infierno (Hell Troop) is the primary enforcement group of the organization and is described as a 'network of hitmen'."
+      }
+    }
+  },
+  "la_familia_michoacana": {
+    "name": "LA NUEVA FAMILIA MICHOACANA",
+    "abbreviation": "LNFM",
+    "color": "#C19A6B",
+    "path": "la-familia-michoacana",
+    "leader": "Johnny Hurtado Olascoaga and José Alfredo Hurtado Olascoaga",
+    "foundingDate": 2011,
+    "history": {
+      "era_1": {
+        "name": "LA FAMILIA MICHOACANA",
+        "description": "In 2011, after the kingpin of La Familia Michoacana, 'El Chayo', LFM split in two, giving way to the rise of another faction by the same name and Los Caballeros Templarios. After many arrests and much more splintering, La Nueva Familia Michoacana was founded, seeking to protect the organization's territory from the rapidly growing CJNG. This group has gained dominance of the region and has taken control of the region's many lucrative rackets. These include not only standard drug trafficking and extortions, but also includes the control of many legal products and industries, such as avocados, limes, lumber, and chicken."
+      }
+    },
+    "factions": {
+      "los_caballeros_templarios": {
+        "name": "Los Caballeros Templarios",
+        "description": "Los Caballeros Templarios (Knights Templar) takes its name from a Catholic militaristic order of medieval France, and as such promotes itself as a religious and altruistic organization, fighting against materialism and injustice. They use religious symbolism on their garbs and propoganda pieces, such as the Templar cross."
+      },
+      "la_familia_michoacana": {
+        "name": "La Familia Michoacana",
+        "description": "At the creation of LNFM, this faction was headed by José 'El Chango' Jesús Méndez Vargas before he was arrested. He sought to continue the practices of the organization as they already existed before the arrest of former kingpin Nazario 'El Chayo' Moreno Gonzalez and the fracturing of the organization that followed."
+      }
+    }
+  }
+}
